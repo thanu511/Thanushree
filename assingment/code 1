@@ -1,1 +1,6 @@
-
+#include<stdio.h>
+int main()
+{
+printf("welcom to git hub");
+return 0;
+}
